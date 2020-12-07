@@ -17,16 +17,14 @@ public class ConToDB {
 
 			Class.forName("com.mysql.cj.jdbc.Driver").getDeclaredConstructor().newInstance();
 
+//             System.out.print("Input product name: ");
+//             String name = scanner.nextLine();
 
 			System.out.print("Input N: ");
 			int price = scanner.nextInt();
+			for (int i = 0; i < price; i++) {
+				try (Connection conn = DriverManager.getConnection(url, username, password)) {
 
-			try (Connection conn = DriverManager.getConnection(url, username, password)) {
-				String sql_truncate = "truncate table userDB.TEST;";
-				PreparedStatement pStruncate = conn.prepareStatement(sql_truncate);
-				pStruncate.execute();
-				for (int i = 1; i < price; i++) {
-					
 					String sql = "INSERT INTO userDB.TEST(FIELD) VALUES(?);";
 					PreparedStatement preparedStatement = conn.prepareStatement(sql);
 
