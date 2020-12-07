@@ -1,0 +1,17 @@
+package main.connection;
+
+import java.util.Collection;
+
+public class Sequence {
+	
+	private Collection<Integer> collection;
+
+	public Collection<Integer> getCollection() {
+		return collection;
+	}
+
+	public void setCollection(Collection<Integer> collection) {
+		this.collection = collection;
+	}
+	
+}

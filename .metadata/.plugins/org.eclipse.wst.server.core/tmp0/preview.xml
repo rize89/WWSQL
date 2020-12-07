@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="magn" name="magn" path="D:/eclipse/NewDB/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/magn" type="j2ee"/>
+</server>

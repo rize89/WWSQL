@@ -1,0 +1,303 @@
+2020-12-06 15:13:04,278 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-06 15:14:42,222 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\eclipse\NewDB\magn\pom.xml
+2020-12-06 15:14:43,531 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ru.mag:magn:0.0.1-SNAPSHOT @ D:\eclipse\NewDB\magn\pom.xml.
+2020-12-06 15:14:44,950 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magn/src/main/java
+2020-12-06 15:14:44,952 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magn/src/test/java
+2020-12-06 15:14:50,845 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2020-12-06 15:14:51,733 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:14:51,734 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:14:51,737 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:14:51,737 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 15:15:27,032 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:15:27,032 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:15:27,034 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:15:27,034 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 15:15:32,529 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:15:32,530 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:15:32,532 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:15:32,532 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 15:15:46,392 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:15:46,392 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:15:46,394 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:15:46,394 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 15:16:01,739 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:01,740 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:16:01,742 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:01,743 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 15:16:11,285 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:11,285 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:16:11,287 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:11,287 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 15:16:17,360 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:17,361 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:16:17,362 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:17,362 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 15:16:18,414 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:18,414 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:16:18,416 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:18,417 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 15:16:24,865 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:24,865 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 15:16:24,866 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 15:16:24,866 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 16:07:15,880 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:07:15,880 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 16:07:15,882 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:07:15,882 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 16:10:39,577 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:10:39,577 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 16:10:39,579 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:10:39,580 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 16:10:56,075 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:10:56,075 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 16:10:56,077 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:10:56,077 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 16:11:07,048 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:11:07,048 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 16:11:07,050 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:11:07,050 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 16:12:46,404 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:12:46,405 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 16:12:46,406 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 16:12:46,406 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:00:23,638 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:00:23,638 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:00:23,639 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:00:23,640 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:00:24,725 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:00:24,725 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:00:24,727 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:00:24,727 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:01:08,056 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:01:08,056 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:01:08,058 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:01:08,058 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:02:41,216 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:02:41,217 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:02:41,218 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:02:41,218 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:03:19,212 [Worker-42: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:03:19,212 [Worker-42: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:03:19,214 [Worker-42: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:03:19,214 [Worker-42: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:05:17,903 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:05:17,903 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:05:17,904 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:05:17,905 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:06:49,842 [Worker-49: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:06:49,842 [Worker-49: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:06:49,845 [Worker-49: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:06:49,845 [Worker-49: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:07:12,024 [Worker-54: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:07:12,025 [Worker-54: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:07:12,027 [Worker-54: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:07:12,027 [Worker-54: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:07:28,416 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:07:28,416 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:07:28,417 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:07:28,417 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:13:19,200 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-06 17:14:40,335 [Worker-8: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:14:40,336 [Worker-8: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:14:40,339 [Worker-8: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:14:40,339 [Worker-8: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:14:42,074 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:14:42,075 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:14:42,077 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:14:42,077 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:15:20,316 [Worker-5: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:15:20,316 [Worker-5: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:15:20,318 [Worker-5: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:15:20,318 [Worker-5: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:15:58,505 [Worker-5: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:15:58,505 [Worker-5: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:15:58,507 [Worker-5: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:15:58,507 [Worker-5: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:20:09,360 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:20:09,360 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:20:09,362 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:20:09,362 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:22:33,450 [Worker-8: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:22:33,450 [Worker-8: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:22:33,452 [Worker-8: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:22:33,452 [Worker-8: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:22:46,136 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:22:46,136 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:22:46,139 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:22:46,139 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:23:03,155 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:23:03,155 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:23:03,158 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:23:03,158 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:23:15,634 [Worker-19: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:23:15,634 [Worker-19: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:23:15,636 [Worker-19: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:23:15,636 [Worker-19: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:23:27,689 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:23:27,689 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:23:27,690 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:23:27,690 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:23:45,411 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:23:45,411 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:23:45,413 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:23:45,413 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:24:42,558 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:24:42,558 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:24:42,560 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:24:42,560 [Worker-15: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:28:33,005 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-06 17:29:03,880 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:03,884 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:29:03,887 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:03,887 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:29:06,205 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:06,205 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:29:06,207 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:06,207 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:29:10,258 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:10,259 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:29:10,260 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:10,261 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:29:22,843 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:22,843 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:29:22,846 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:22,846 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:29:33,778 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:33,778 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:29:33,780 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:29:33,780 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:30:06,631 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:30:06,631 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:30:06,633 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:30:06,633 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:30:28,354 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:30:28,355 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:30:28,356 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:30:28,356 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:31:18,637 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:31:18,637 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:31:18,640 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:31:18,640 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:36:23,957 [Worker-5: Launching MysqlConnect] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:36:23,957 [Worker-5: Launching MysqlConnect] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:36:23,958 [Worker-5: Launching MysqlConnect] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:36:23,959 [Worker-5: Launching MysqlConnect] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:37:12,641 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:37:12,641 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:37:12,643 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:37:12,643 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:39:28,807 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:39:28,807 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:39:28,809 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:39:28,809 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:39:54,649 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:39:54,649 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:39:54,652 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:39:54,652 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:40:36,297 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:40:36,297 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:40:36,302 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:40:36,303 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:40:43,889 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:40:43,889 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:40:43,891 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:40:43,891 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:45:12,259 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:45:12,259 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:45:12,260 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:45:12,260 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:46:02,094 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ru.mag:magn:0.0.1-SNAPSHOT @ D:\eclipse\NewDB\magn\pom.xml.
+2020-12-06 17:46:02,688 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22.pom
+2020-12-06 17:46:02,839 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22.pom
+2020-12-06 17:46:02,919 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.pom
+2020-12-06 17:46:02,985 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.pom
+2020-12-06 17:46:03,053 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.11.4/protobuf-parent-3.11.4.pom
+2020-12-06 17:46:03,146 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.11.4/protobuf-parent-3.11.4.pom
+2020-12-06 17:46:03,220 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.11.4/protobuf-bom-3.11.4.pom
+2020-12-06 17:46:03,287 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.11.4/protobuf-bom-3.11.4.pom
+2020-12-06 17:46:03,380 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22.jar
+2020-12-06 17:46:03,444 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+2020-12-06 17:46:04,534 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+2020-12-06 17:46:04,606 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22.jar
+2020-12-06 17:46:05,800 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:46:05,800 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:46:05,803 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:46:05,803 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:46:05,803 [Worker-19: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of magn
+2020-12-06 17:46:05,804 [Worker-19: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for magn
+2020-12-06 17:46:05,809 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:46:06,569 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:46:06,569 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:46:06,571 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:46:06,571 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:46:06,939 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22-sources.jar
+2020-12-06 17:46:07,597 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22-sources.jar
+2020-12-06 17:46:07,649 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.22
+2020-12-06 17:46:07,939 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4-sources.jar
+2020-12-06 17:46:08,263 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4-sources.jar
+2020-12-06 17:46:08,298 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.11.4
+2020-12-06 17:46:08,622 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:46:08,622 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:46:08,623 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:46:08,623 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:47:28,997 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:47:28,997 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:47:28,998 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:47:28,999 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 17:47:53,175 [Worker-17: Launching MysqlConnect] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:47:53,175 [Worker-17: Launching MysqlConnect] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 17:47:53,177 [Worker-17: Launching MysqlConnect] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 17:47:53,177 [Worker-17: Launching MysqlConnect] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:17:56,840 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-06 22:21:13,719 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:13,723 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:21:13,725 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:13,726 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:21:15,211 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:15,212 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:21:15,214 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:15,214 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:21:17,681 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:17,681 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:21:17,682 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:17,683 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:21:32,812 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:32,813 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:21:32,816 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:32,816 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:21:47,498 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:47,499 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:21:47,500 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:21:47,500 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:22:00,270 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:22:00,270 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:22:00,272 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:22:00,272 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:22:06,508 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:22:06,508 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:22:06,510 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:22:06,510 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:23:29,452 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:23:29,453 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:23:29,457 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:23:29,457 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:23:57,527 [Worker-13: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:23:57,527 [Worker-13: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:23:57,528 [Worker-13: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:23:57,528 [Worker-13: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:43:56,399 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:43:56,399 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:43:56,401 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:43:56,401 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:47:47,306 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:47:47,306 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:47:47,308 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:47:47,308 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-06 22:52:25,309 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:52:25,309 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-06 22:52:25,311 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 22:52:25,311 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources
+2020-12-07 00:09:28,077 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 00:09:28,077 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\main\resources
+2020-12-07 00:09:28,077 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 00:09:28,077 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse\NewDB\magn\src\test\resources

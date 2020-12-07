@@ -1,0 +1,121 @@
+package main;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.Properties;
+
+public class Main {
+	private static final String DATABASE_DRIVER = "com.mysql.jdbc.Driver";
+	private static final String DB_URL = "jdbc:mysql://localhost:3306/userDB?**rewriteBatchedStatements=true**";
+	private static String USERNAME = "root";
+	private static String PASSWORD = "1111";
+	private static int Number = 10;
+
+	// init connection object
+	private Connection connection;
+	// init properties object
+	private Properties properties;
+
+	// create properties
+	private Properties getProperties() {
+		if (properties == null) {
+			properties = new Properties();
+			properties.setProperty("user", USERNAME);
+			properties.setProperty("password", PASSWORD);
+
+		}
+		return properties;
+	}
+
+	// connect database
+	public Connection connect() {
+		if (connection == null) {
+			try {
+				Class.forName(DATABASE_DRIVER);
+				connection = DriverManager.getConnection(DB_URL);
+			} catch (ClassNotFoundException | SQLException e) {
+				e.printStackTrace();
+			}
+		}
+		return connection;
+	}
+
+	public Connection getConnection() {
+		return connection;
+	}
+
+	public void setConnection(Connection connection) {
+		this.connection = connection;
+	}
+
+	public static String getDatabaseDriver() {
+		return DATABASE_DRIVER;
+	}
+
+	public void setProperties(Properties properties) {
+		this.properties = properties;
+	}
+
+	public static int getNumber() {
+		return Number;
+	}
+
+	public static void setNumber(int number) {
+		Number = number;
+	}
+
+	// disconnect database
+	public void disconnect() {
+		if (connection != null) {
+			try {
+				connection.close();
+				connection = null;
+			} catch (SQLException e) {
+				e.printStackTrace();
+			}
+		}
+
+	}
+
+	public static void main(String[] args) throws SQLException {
+		
+		
+		Main dbc = new Main();
+		
+		Connection connection = null;
+		PreparedStatement statement = null;
+		String SQL_SELECT = "SELECT field FROM userDB.TEST";
+		final String SQL_INSERT = "INSERT INTO TEST (FIELD) VALUES (?)";
+		try {
+			connection = dbc.getConnection();
+			statement = connection.prepareStatement(SQL_INSERT);
+
+			for (int i = 0; i < 10; i++) {
+				statement.setInt(i, i);
+				
+				// ...
+				statement.addBatch();
+
+				if ((i+1) % 10 == 0) {
+					statement.executeBatch(); // Execute every 10 items.
+				}
+			}
+			statement.executeBatch();
+		}
+
+		finally {
+			if (statement != null)
+				try {
+					statement.close();
+				} catch (SQLException logOrIgnore) {
+				}
+			if (connection != null)
+				try {
+					connection.close();
+				} catch (SQLException logOrIgnore) {
+				}
+		}
+	}
+}

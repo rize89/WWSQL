@@ -1,0 +1,17 @@
+package inner.byMain;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Main someObj = new Main();
+		
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			System.out.println("Connected");
+			System.out.println();
+		} catch(ClassNotFoundException ex) {
+			// use the exception here
+		}
+	}
+}

@@ -1,0 +1,68 @@
+package inner.byMain;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+public class Main {
+	static { // driver
+ 		try {
+			Class.forName("com.mysql.jdbc.Driver");
+		} catch (ClassNotFoundException ex) {
+			System.out.println("ClassNotFoundException: Driver is't run");
+		}
+	}
+
+	public static void main(String[] args) {
+
+		Main someObj = new Main();
+		forConnect fc = new forConnect();
+		Scanner scn;
+	
+		fc.setUrl("jdbc:mysql://localhost:3306/userDB");
+		fc.setUsername("root");
+		fc.setPassword("1111");
+		}
+}
+
+class forConnect {
+	private String url;
+	private String username;
+	private String password;
+
+	private Connection getConnection() {
+		Connection connection = null;
+		try {
+			connection = DriverManager.getConnection(url, username, password);
+			System.out.println("Got our connection");
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return connection;
+	}
+
+	public String getUrl() {
+		return url;
+	}
+
+	public void setUrl(String url) {
+		this.url = url;
+	}
+
+	public String getUsername() {
+		return username;
+	}
+
+	public void setUsername(String username) {
+		this.username = username;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+}
